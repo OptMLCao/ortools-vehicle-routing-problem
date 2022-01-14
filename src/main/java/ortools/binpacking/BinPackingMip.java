@@ -1,4 +1,4 @@
-package ortools.binPacking;
+package ortools.binpacking;
 
 import com.google.ortools.Loader;
 import com.google.ortools.linearsolver.MPConstraint;

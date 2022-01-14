@@ -1,4 +1,4 @@
-package ortools.binPacking;
+package ortools.binpacking;
 // Solve a multiple knapsack problem using a MIP solver.
 
 import com.google.ortools.Loader;
