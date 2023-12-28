@@ -1,10 +1,13 @@
-package ortools.binpacking.invoker;
+package invoker;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
 import lombok.extern.slf4j.Slf4j;
+import ortools.binpacking.invoker.AlgorithmParam;
+import ortools.binpacking.invoker.BinPackageInvoker;
+import ortools.binpacking.invoker.BinPackageProblem;
 
 /**
  * test sample.
